@@ -1,0 +1,6 @@
+#ignore ALL .log, .class files
+*.log
+*.class
+#ignore ALL files in ANY directory named temp
+temp
+Project Evaluation System\build
